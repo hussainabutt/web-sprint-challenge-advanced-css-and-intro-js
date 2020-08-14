@@ -153,8 +153,11 @@ button:hover{
             width: 100%;
         }
 
-        .artist{
-            width:100%;
+        .artist img{
+            height:100%;
+            object-fit: cover;
         }
-        
+        .artist{
+            width:100%
+        }
 }
